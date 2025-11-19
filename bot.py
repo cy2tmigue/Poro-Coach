@@ -10,15 +10,15 @@ TOKEN = os.getenv("DISCORD_TOKEN")
 PREFIX = os.getenv("PREFIX", "!")
 
 # Intents
-intents = discord.Intents.default()
-intents.message_content = True
+intents = discord.Intents.all()
 
 # Crear bot
 bot = commands.Bot(
     command_prefix=PREFIX,
     intents=intents,
-    help_command=None  # Desactiva el help default
+    help_command=None
 )
+
 
 # Cargar cogs dinámicamente desde /Cogs
 async def load_cogs():
