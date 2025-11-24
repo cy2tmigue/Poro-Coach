@@ -1,0 +1,2981 @@
+{
+  "Ahri": {
+    "items": [
+      "Lich Bane",
+      "Rabadon's Deathcap",
+      "Shadowflame",
+      "Void Staff",
+      "Sorcerer's Shoes",
+      "Horizon Focus"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Electrocute",
+        "runes": [
+          "Sudden Impact",
+          "Eyeball Collection",
+          "Relentless Hunter"
+        ]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": [
+          "Manaflow Band",
+          "Transcendence"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
+  },
+  "Akali": {
+    "items": [
+      "Hextech Rocketbelt",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Zhonya's Hourglass",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Electrocute",
+        "runes": [
+          "Sudden Impact",
+          "Eyeball Collection",
+          "Ultimate Hunter"
+        ]
+      },
+      "secondary": {
+        "tree": "Precision",
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+  "Aatrox": {
+    "items": [
+      "Black Cleaver",
+      "Stridebreaker",
+      "Sterak's Gage",
+      "Death's Dance",
+      "Plated Steelcaps",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": [
+          "Second Wind",
+          "Revitalize"
+        ]
+      },
+      "statShards": [
+        "Attack Damage",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+  "Amumu": {
+    "items": [
+      "Sunfire Aegis",
+      "Thornmail",
+      "Abyssal Mask",
+      "Gargoyle Stoneplate",
+      "Plated Steelcaps",
+      "Spirit Visage"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Aftershock",
+        "runes": [
+          "Font of Life",
+          "Conditioning",
+          "Overgrowth"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Hextech Flashtraption",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Health",
+        "Armor",
+        "Magic Resist"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
+  },
+  "Ashe": {
+    "items": [
+      "Kraken Slayer",
+      "Runaan's Hurricane",
+      "Infinity Edge",
+      "Rapid Firecannon",
+      "Berserker's Greaves",
+      "Bloodthirster"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Fleet Footwork",
+        "runes": [
+          "Overheal",
+          "Legend: Alacrity",
+          "Coup de Grace"
+        ]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": [
+          "Manaflow Band",
+          "Gathering Storm"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
+  },
+  "Caitlyn": {
+    "items": [
+      "Infinity Edge",
+      "Rapid Firecannon",
+      "Phantom Dancer",
+      "Lord Dominik's Regards",
+      "Berserker's Greaves",
+      "The Collector"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Press the Attack",
+        "runes": [
+          "Overheal",
+          "Legend: Alacrity",
+          "Coup de Grace"
+        ]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": [
+          "Taste of Blood",
+          "Ravenous Hunter"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
+  },
+  "Darius": {
+    "items": [
+      "Stridebreaker",
+      "Black Cleaver",
+      "Sterak's Gage",
+      "Death's Dance",
+      "Plated Steelcaps",
+      "Thornmail"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": [
+          "Second Wind",
+          "Unflinching"
+        ]
+      },
+      "statShards": [
+        "Attack Damage",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+  "Diana": {
+    "items": [
+      "Lich Bane",
+      "Nashor's Tooth",
+      "Rabadon's Deathcap",
+      "Zhonya's Hourglass",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Electrocute",
+        "runes": [
+          "Sudden Impact",
+          "Eyeball Collection",
+          "Relentless Hunter"
+        ]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": [
+          "Manaflow Band",
+          "Transcendence"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
+  },
+  "Ekko": {
+    "items": [
+      "Hextech Rocketbelt",
+      "Lich Bane",
+      "Zhonya's Hourglass",
+      "Rabadon's Deathcap",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Electrocute",
+        "runes": [
+          "Sudden Impact",
+          "Eyeball Collection",
+          "Ultimate Hunter"
+        ]
+      },
+      "secondary": {
+        "tree": "Precision",
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+  "Ezreal": {
+    "items": [
+      "Muramana",
+      "Trinity Force",
+      "Serylda's Grudge",
+      "Sorcerer's Shoes",
+      "Iceborn Gauntlet",
+      "Blade of the Ruined King"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Press the Attack",
+        "runes": [
+          "Overheal",
+          "Legend: Alacrity",
+          "Coup de Grace"
+        ]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": [
+          "Manaflow Band",
+          "Gathering Storm"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
+  },
+  "Fizz": {
+    "items": [
+      "Lich Bane",
+      "Nashor's Tooth",
+      "Rabadon's Deathcap",
+      "Zhonya's Hourglass",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Electrocute",
+        "runes": [
+          "Sudden Impact",
+          "Eyeball Collection",
+          "Ultimate Hunter"
+        ]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": [
+          "Manaflow Band",
+          "Transcendence"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
+  },
+  "Galio": {
+    "items": [
+      "Turbo Chemtank",
+      "Abyssal Mask",
+      "Zhonya's Hourglass",
+      "Force of Nature",
+      "Plated Steelcaps",
+      "Gargoyle Stoneplate"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Aftershock",
+        "runes": [
+          "Font of Life",
+          "Conditioning",
+          "Overgrowth"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Hextech Flashtraption",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Health",
+        "Armor",
+        "Magic Resist"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+  "Garen": {
+    "items": [
+      "Stridebreaker",
+      "Black Cleaver",
+      "Sterak's Gage",
+      "Dead Man's Plate",
+      "Plated Steelcaps",
+      "Spirit Visage"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": [
+          "Second Wind",
+          "Unflinching"
+        ]
+      },
+      "statShards": [
+        "Attack Damage",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+  "Graves": {
+    "items": [
+      "Goredrinker",
+      "Black Cleaver",
+      "Sterak's Gage",
+      "Death's Dance",
+      "Plated Steelcaps",
+      "Maw of Malmortius"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Press the Attack",
+        "runes": [
+          "Overheal",
+          "Legend: Alacrity",
+          "Coup de Grace"
+        ]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": [
+          "Bone Plating",
+          "Second Wind"
+        ]
+      },
+      "statShards": [
+        "Attack Damage",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
+  },
+  "Hecarim": {
+    "items": [
+      "Trinity Force",
+      "Sterak's Gage",
+      "Spirit Visage",
+      "Dead Man's Plate",
+      "Plated Steelcaps",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": [
+          "Second Wind",
+          "Unflinching"
+        ]
+      },
+      "statShards": [
+        "Attack Damage",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
+  },
+  "Jhin": {
+    "items": [
+      "Galeforce",
+      "Stormrazor",
+      "Infinity Edge",
+      "Rapid Firecannon",
+      "Lord Dominik's Regards",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Fleet Footwork",
+        "runes": [
+          "Overheal",
+          "Legend: Alacrity",
+          "Coup de Grace"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Biscuit Delivery",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
+  },
+  "Jinx": {
+    "items": [
+      "Infinity Edge",
+      "Runaan's Hurricane",
+      "Rapid Firecannon",
+      "Bloodthirster",
+      "Lord Dominik's Regards",
+      "Berserker's Greaves"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Press the Attack",
+        "runes": [
+          "Overheal",
+          "Legend: Alacrity",
+          "Coup de Grace"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Biscuit Delivery",
+          "Magical Footwear"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
+  },
+  "Kai'Sa": {
+    "items": [
+      "Kraken Slayer",
+      "Guinsoo's Rageblade",
+      "Runaan's Hurricane",
+      "Infinity Edge",
+      "Berserker's Greaves",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Lethal Tempo",
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Coup de Grace"
+        ]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": [
+          "Taste of Blood",
+          "Ravenous Hunter"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
+  },
+  "Karthus": {
+    "items": [
+      "Rabadon's Deathcap",
+      "Luden's Tempest",
+      "Void Staff",
+      "Shadowflame",
+      "Sorcerer's Shoes",
+      "Zhonya's Hourglass"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Arcane Comet",
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Scorch"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Biscuit Delivery",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+  "Kha'Zix": {
+    "items": [
+      "Duskblade of Draktharr",
+      "Youmuu's Ghostblade",
+      "Edge of Night",
+      "The Collector",
+      "Boots of Mobility",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Electrocute",
+        "runes": [
+          "Sudden Impact",
+          "Eyeball Collection",
+          "Relentless Hunter"
+        ]
+      },
+      "secondary": {
+        "tree": "Precision",
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity"
+        ]
+      },
+      "statShards": [
+        "Attack Damage",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
+  },
+  "Lee Sin": {
+    "items": [
+      "Goredrinker",
+      "Sterak's Gage",
+      "Black Cleaver",
+      "Death's Dance",
+      "Plated Steelcaps",
+      "Maw of Malmortius"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Electrocute",
+        "runes": [
+          "Sudden Impact",
+          "Eyeball Collection",
+          "Ultimate Hunter"
+        ]
+      },
+      "secondary": {
+        "tree": "Precision",
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity"
+        ]
+      },
+      "statShards": [
+        "Attack Damage",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
+  },
+  "Leona": {
+    "items": [
+      "Locket of the Iron Solari",
+      "Knight's Vow",
+      "Thornmail",
+      "Gargoyle Stoneplate",
+      "Plated Steelcaps",
+      "Aegis of the Legion"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Aftershock",
+        "runes": [
+          "Font of Life",
+          "Conditioning",
+          "Overgrowth"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Hextech Flashtraption",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Health",
+        "Armor",
+        "Magic Resist"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
+  },
+  "Lux": {
+    "items": [
+      "Luden's Tempest",
+      "Horizon Focus",
+      "Rabadon's Deathcap",
+      "Void Staff",
+      "Sorcerer's Shoes",
+      "Zhonya's Hourglass"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Arcane Comet",
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Gathering Storm"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Biscuit Delivery",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
+  },
+  "Miss Fortune": {
+    "items": [
+      "Kraken Slayer",
+      "Infinity Edge",
+      "Rapid Firecannon",
+      "Lord Dominik's Regards",
+      "Berserker's Greaves",
+      "Bloodthirster"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Press the Attack",
+        "runes": [
+          "Overheal",
+          "Legend: Alacrity",
+          "Coup de Grace"
+        ]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": [
+          "Taste of Blood",
+          "Ravenous Hunter"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
+  },
+  "Morgana": {
+    "items": [
+      "Horizon Focus",
+      "Rylai's Crystal Scepter",
+      "Zhonya's Hourglass",
+      "Rabadon's Deathcap",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Arcane Comet",
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Scorch"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Biscuit Delivery",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
+  },
+  "Orianna": {
+    "items": [
+      "Luden's Tempest",
+      "Horizon Focus",
+      "Rabadon's Deathcap",
+      "Zhonya's Hourglass",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Arcane Comet",
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Gathering Storm"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Biscuit Delivery",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+  "Riven": {
+    "items": [
+      "Stridebreaker",
+      "Black Cleaver",
+      "Sterak's Gage",
+      "Maw of Malmortius",
+      "Guardian Angel",
+      "Plated Steelcaps"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": [
+          "Second Wind",
+          "Unflinching"
+        ]
+      },
+      "statShards": [
+        "Attack Damage",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+  "Samira": {
+    "items": [
+      "Immortal Shieldbow",
+      "Infinity Edge",
+      "Rapid Firecannon",
+      "Lord Dominik's Regards",
+      "Berserker's Greaves",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Conqueror",
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Precision",
+        "runes": [
+          "Overheal",
+          "Coup de Grace"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Armor"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
+  },
+  "Shen": {
+    "items": [
+      "Titanic Hydra",
+      "Black Cleaver",
+      "Sterak's Gage",
+      "Dead Man's Plate",
+      "Plated Steelcaps",
+      "Spirit Visage"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Grasp of the Undying",
+        "runes": [
+          "Demolish",
+          "Second Wind",
+          "Overgrowth"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Hextech Flashtraption",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Health",
+        "Armor",
+        "Magic Resist"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+  "Thresh": {
+    "items": [
+      "Locket of the Iron Solari",
+      "Redemption",
+      "Zeke's Convergence",
+      "Knight's Vow",
+      "Boots of Mobility",
+      "Shurelya's Battlesong"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Aftershock",
+        "runes": [
+          "Font of Life",
+          "Conditioning",
+          "Overgrowth"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Hextech Flashtraption",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Health",
+        "Armor",
+        "Magic Resist"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
+  },
+  "Alistar": {
+    "items": [
+      "Locket of the Iron Solari",
+      "Zeke's Convergence",
+      "Knight's Vow",
+      "Frozen Heart",
+      "Mercury's Treads",
+      "Redemption"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Aftershock",
+        "runes": [
+          "Font of Life",
+          "Bone Plating",
+          "Unflinching"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Hextech Flashtraption",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Health",
+        "Armor",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
+  },
+
+  "Anivia": {
+    "items": [
+      "Rod of Ages",
+      "Seraph's Embrace",
+      "Rabadon's Deathcap",
+      "Zhonya's Hourglass",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Arcane Comet",
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Gathering Storm"
+        ]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": [
+          "Cheap Shot",
+          "Ultimate Hunter"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+
+  "Annie": {
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Zhonya's Hourglass",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Electrocute",
+        "runes": [
+          "Cheap Shot",
+          "Eyeball Collection",
+          "Ultimate Hunter"
+        ]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": [
+          "Manaflow Band",
+          "Scorch"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
+  },
+
+  "Aphelios": {
+    "items": [
+      "Infinity Edge",
+      "Kraken Slayer",
+      "Bloodthirster",
+      "Lord Dominik's Regards",
+      "Berserker's Greaves",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Lethal Tempo",
+        "runes": [
+          "Presence of Mind",
+          "Legend: Bloodline",
+          "Coup de Grace"
+        ]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": [
+          "Absolute Focus",
+          "Gathering Storm"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
+  },
+
+  "Aurelion Sol": {
+    "items": [
+      "Liandry's Torment",
+      "Rylai's Crystal Scepter",
+      "Rabadon's Deathcap",
+      "Zhonya's Hourglass",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Arcane Comet",
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Scorch"
+        ]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": [
+          "Taste of Blood",
+          "Ultimate Hunter"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+
+  "Azir": {
+    "items": [
+      "Nashor's Tooth",
+      "Luden's Companion",
+      "Rabadon's Deathcap",
+      "Zhonya's Hourglass",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Lethal Tempo",
+        "runes": [
+          "Presence of Mind",
+          "Legend: Alacrity",
+          "Cut Down"
+        ]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": [
+          "Transcendence",
+          "Gathering Storm"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+
+  "Bard": {
+    "items": [
+      "Locket of the Iron Solari",
+      "Redemption",
+      "Mikael's Blessing",
+      "Frozen Heart",
+      "Ionian Boots of Lucidity",
+      "Knight's Vow"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Guardian",
+        "runes": [
+          "Font of Life",
+          "Bone Plating",
+          "Unflinching"
+        ]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": [
+          "Relentless Hunter",
+          "Cheap Shot"
+        ]
+      },
+      "statShards": [
+        "Health",
+        "Armor",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
+  },
+
+  "Bel'Veth": {
+    "items": [
+      "Kraken Slayer",
+      "Blade of the Ruined King",
+      "Wit's End",
+      "Death's Dance",
+      "Plated Steelcaps",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": [
+          "Sudden Impact",
+          "Treasure Hunter"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
+  },
+
+  "Blitzcrank": {
+    "items": [
+      "Evenshroud",
+      "Zeke's Convergence",
+      "Knight's Vow",
+      "Frozen Heart",
+      "Mercury's Treads",
+      "Redemption"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Aftershock",
+        "runes": [
+          "Font of Life",
+          "Bone Plating",
+          "Overgrowth"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Hextech Flashtraption",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Health",
+        "Armor",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
+  },
+
+  "Brand": {
+    "items": [
+      "Liandry's Torment",
+      "Rylai's Crystal Scepter",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Dark Harvest",
+        "runes": [
+          "Cheap Shot",
+          "Eyeball Collection",
+          "Ultimate Hunter"
+        ]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": [
+          "Scorch",
+          "Transcendence"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
+  },
+
+  "Braum": {
+    "items": [
+      "Locket of the Iron Solari",
+      "Knight's Vow",
+      "Zeke's Convergence",
+      "Frozen Heart",
+      "Mercury's Treads",
+      "Redemption"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Guardian",
+        "runes": [
+          "Font of Life",
+          "Bone Plating",
+          "Unflinching"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Hextech Flashtraption",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Health",
+        "Armor",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Exhaust"
+    ]
+  },
+
+  "Briar": {
+    "items": [
+      "Stridebreaker",
+      "Black Cleaver",
+      "Sterak's Gage",
+      "Death's Dance",
+      "Plated Steelcaps",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": [
+          "Sudden Impact",
+          "Treasure Hunter"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
+  },
+
+  "Camille": {
+    "items": [
+      "Trinity Force",
+      "Ravenous Hydra",
+      "Sterak's Gage",
+      "Death's Dance",
+      "Plated Steelcaps",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": [
+          "Second Wind",
+          "Unflinching"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+
+  "Cassiopeia": {
+    "items": [
+      "Rod of Ages",
+      "Seraph's Embrace",
+      "Liandry's Torment",
+      "Rylai's Crystal Scepter",
+      "Sorcerer's Shoes",
+      "Rabadon's Deathcap"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": [
+          "Presence of Mind",
+          "Legend: Tenacity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": [
+          "Manaflow Band",
+          "Transcendence"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Ghost"
+    ]
+  },
+
+  "Cho'Gath": {
+    "items": [
+      "Heartsteel",
+      "Sunfire Aegis",
+      "Titanic Hydra",
+      "Warmog's Armor",
+      "Plated Steelcaps",
+      "Thornmail"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Grasp of the Undying",
+        "runes": [
+          "Demolish",
+          "Second Wind",
+          "Overgrowth"
+        ]
+      },
+      "secondary": {
+        "tree": "Precision",
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity"
+        ]
+      },
+      "statShards": [
+        "Health",
+        "Armor",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+
+  "Corki": {
+    "items": [
+      "Luden's Companion",
+      "Muramana",
+      "Rabadon's Deathcap",
+      "Sorcerer's Shoes",
+      "Shadowflame",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Fleet Footwork",
+        "runes": [
+          "Presence of Mind",
+          "Legend: Alacrity",
+          "Cut Down"
+        ]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": [
+          "Transcendence",
+          "Gathering Storm"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+
+  "Dr. Mundo": {
+    "items": [
+      "Heartsteel",
+      "Spirit Visage",
+      "Warmog's Armor",
+      "Sunfire Aegis",
+      "Plated Steelcaps",
+      "Thornmail"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Grasp of the Undying",
+        "runes": [
+          "Demolish",
+          "Second Wind",
+          "Overgrowth"
+        ]
+      },
+      "secondary": {
+        "tree": "Precision",
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity"
+        ]
+      },
+      "statShards": [
+        "Health",
+        "Armor",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+
+  "Draven": {
+    "items": [
+      "Infinity Edge",
+      "The Collector",
+      "Bloodthirster",
+      "Lord Dominik's Regards",
+      "Berserker's Greaves",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": [
+          "Triumph",
+          "Legend: Bloodline",
+          "Coup de Grace"
+        ]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": [
+          "Taste of Blood",
+          "Treasure Hunter"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
+  },
+
+  "Elise": {
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Zhonya's Hourglass",
+      "Rabadon's Deathcap",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Electrocute",
+        "runes": [
+          "Cheap Shot",
+          "Eyeball Collection",
+          "Relentless Hunter"
+        ]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": [
+          "Transcendence",
+          "Waterwalking"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
+  },
+
+  "Evelynn": {
+    "items": [
+      "Hextech Rocketbelt",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Lich Bane",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Electrocute",
+        "runes": [
+          "Sudden Impact",
+          "Eyeball Collection",
+          "Ultimate Hunter"
+        ]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": [
+          "Absolute Focus",
+          "Gathering Storm"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
+  },
+
+  "Fiora": {
+    "items": [
+      "Ravenous Hydra",
+      "Trinity Force",
+      "Death's Dance",
+      "Sterak's Gage",
+      "Plated Steelcaps",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": [
+          "Second Wind",
+          "Unflinching"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+
+  "Fiddlesticks": {
+    "items": [
+      "Liandry's Torment",
+      "Rylai's Crystal Scepter",
+      "Zhonya's Hourglass",
+      "Rabadon's Deathcap",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Dark Harvest",
+        "runes": [
+          "Cheap Shot",
+          "Eyeball Collection",
+          "Ultimate Hunter"
+        ]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": [
+          "Transcendence",
+          "Gathering Storm"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
+  },
+
+  "Gangplank": {
+    "items": [
+      "Essence Reaver",
+      "Navori Flickerblade",
+      "Collector",
+      "Infinity Edge",
+      "Boots of Swiftness",
+      "Lord Dominik's Regards"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Fleet Footwork",
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Cut Down"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Magical Footwear",
+          "Biscuit Delivery"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+
+  "Gnar": {
+    "items": [
+      "Black Cleaver",
+      "Trinity Force",
+      "Ravenous Hydra",
+      "Sterak's Gage",
+      "Plated Steelcaps",
+      "Randuin's Omen"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Fleet Footwork",
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": [
+          "Bone Plating",
+          "Unflinching"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+
+  "Gragas": {
+    "items": [
+      "Rod of Ages",
+      "Seraph's Embrace",
+      "Zhonya's Hourglass",
+      "Rabadon's Deathcap",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Phase Rush",
+        "runes": [
+          "Nimbus Cloak",
+          "Transcendence",
+          "Scorch"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Magical Footwear",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+
+  "Gwen": {
+    "items": [
+      "Riftmaker",
+      "Nashor's Tooth",
+      "Rabadon's Deathcap",
+      "Zhonya's Hourglass",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": [
+          "Presence of Mind",
+          "Legend: Alacrity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": [
+          "Second Wind",
+          "Unflinching"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+
+  "Heimerdinger": {
+    "items": [
+      "Luden's Companion",
+      "Zhonya's Hourglass",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Arcane Comet",
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Scorch"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Biscuit Delivery",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
+  },
+
+  "Illaoi": {
+    "items": [
+      "Black Cleaver",
+      "Sterak's Gage",
+      "Death's Dance",
+      "Hullbreaker",
+      "Plated Steelcaps",
+      "Spirit Visage"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": [
+          "Second Wind",
+          "Overgrowth"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+
+  "Irelia": {
+    "items": [
+      "Blade of the Ruined King",
+      "Ravenous Hydra",
+      "Wit's End",
+      "Death's Dance",
+      "Plated Steelcaps",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Last Stand"
+        ]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": [
+          "Bone Plating",
+          "Unflinching"
+        ]
+      },
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
+  },
+
+  "Ivern": {
+    "items": [
+      "Moonstone Renewer",
+      "Redemption",
+      "Ardent Censer",
+      "Mikael's Blessing",
+      "Ionian Boots of Lucidity",
+      "Staff of Flowing Water"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Summon Aery",
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Scorch"
+        ]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": [
+          "Revitalize",
+          "Bone Plating"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
+  },
+  "Janna": {
+    "items": [
+      "Moonstone Renewer",
+      "Redemption",
+      "Ardent Censer",
+      "Mikael's Blessing",
+      "Ionian Boots of Lucidity",
+      "Staff of Flowing Water"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Summon Aery",
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Scorch"
+        ]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": [
+          "Biscuit Delivery",
+          "Cosmic Insight"
+        ]
+      },
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
+    },
+    "summoners": ["Flash", "Heal"]
+  },
+
+  "Jarvan IV": {
+    "items": [
+      "Goredrinker",
+      "Black Cleaver",
+      "Sterak's Gage",
+      "Dead Man's Plate",
+      "Plated Steelcaps",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": ["Triumph", "Legend: Alacrity", "Last Stand"]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": ["Sudden Impact", "Treasure Hunter"]
+      },
+      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Smite"]
+  },
+
+  "Jayce": {
+    "items": [
+      "Manamune",
+      "Eclipse",
+      "Serylda's Grudge",
+      "Maw of Malmortius",
+      "Ionian Boots of Lucidity",
+      "Edge of Night"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Phase Rush",
+        "runes": ["Nimbus Cloak", "Transcendence", "Scorch"]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": ["Biscuit Delivery", "Cosmic Insight"]
+      },
+      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Teleport"]
+  },
+
+  "Karma": {
+    "items": [
+      "Moonstone Renewer",
+      "Ardent Censer",
+      "Redemption",
+      "Staff of Flowing Water",
+      "Ionian Boots of Lucidity",
+      "Mikael's Blessing"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Summon Aery",
+        "runes": ["Manaflow Band", "Transcendence", "Scorch"]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": ["Biscuit Delivery", "Cosmic Insight"]
+      },
+      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Heal"]
+  },
+
+  "Kalista": {
+    "items": [
+      "Kraken Slayer",
+      "Runaan's Hurricane",
+      "Blade of the Ruined King",
+      "Immortal Shieldbow",
+      "Berserker's Greaves",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Lethal Tempo",
+        "runes": ["Triumph", "Legend: Alacrity", "Coup de Grace"]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": ["Sudden Impact", "Treasure Hunter"]
+      },
+      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Heal"]
+  },
+
+  "Kassadin": {
+    "items": [
+      "Rod of Ages",
+      "Archangel's Staff",
+      "Rabadon's Deathcap",
+      "Zhonya's Hourglass",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Fleet Footwork",
+        "runes": ["Presence of Mind", "Legend: Tenacity", "Cut Down"]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": ["Transcendence", "Gathering Storm"]
+      },
+      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Teleport"]
+  },
+
+  "Katarina": {
+    "items": [
+      "Nashor's Tooth",
+      "Riftmaker",
+      "Shadowflame",
+      "Zhonya's Hourglass",
+      "Sorcerer's Shoes",
+      "Rabadon's Deathcap"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Dark Harvest",
+        "runes": ["Sudden Impact", "Eyeball Collection", "Treasure Hunter"]
+      },
+      "secondary": {
+        "tree": "Precision",
+        "runes": ["Triumph", "Legend: Tenacity"]
+      },
+      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Ignite"]
+  },
+
+  "Kayn": {
+    "items": [
+      "Goredrinker",
+      "Black Cleaver",
+      "Death's Dance",
+      "Spirit Visage",
+      "Plated Steelcaps",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Dark Harvest",
+        "runes": ["Sudden Impact", "Eyeball Collection", "Ultimate Hunter"]
+      },
+      "secondary": {
+        "tree": "Precision",
+        "runes": ["Triumph", "Legend: Tenacity"]
+      },
+      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Smite"]
+  },
+
+  "Kennen": {
+    "items": [
+      "Hextech Rocketbelt",
+      "Zhonya's Hourglass",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Aery",
+        "runes": ["Nimbus Cloak", "Transcendence", "Scorch"]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": ["Bone Plating", "Overgrowth"]
+      },
+      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Teleport"]
+  },
+
+  "Kled": {
+    "items": [
+      "Goredrinker",
+      "Black Cleaver",
+      "Sterak's Gage",
+      "Death's Dance",
+      "Plated Steelcaps",
+      "Titanic Hydra"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": ["Triumph", "Legend: Alacrity", "Last Stand"]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": ["Bone Plating", "Unflinching"]
+      },
+      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Ignite"]
+  },
+
+  "Kog'Maw": {
+    "items": [
+      "Guinsoo's Rageblade",
+      "Blade of the Ruined King",
+      "Wit's End",
+      "Runaan's Hurricane",
+      "Berserker's Greaves",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Lethal Tempo",
+        "runes": ["Triumph", "Legend: Alacrity", "Cut Down"]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": ["Taste of Blood", "Treasure Hunter"]
+      },
+      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Heal"]
+  },
+
+  "Leblanc": {
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Zhonya's Hourglass",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Electrocute",
+        "runes": ["Sudden Impact", "Eyeball Collection", "Treasure Hunter"]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": ["Manaflow Band", "Scorch"]
+      },
+      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Ignite"]
+  },
+
+  "Lillia": {
+    "items": [
+      "Liandry's Torment",
+      "Rylai's Crystal Scepter",
+      "Zhonya's Hourglass",
+      "Spirit Visage",
+      "Sorcerer's Shoes",
+      "Demonic Embrace"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Domination",
+        "keystone": "Dark Harvest",
+        "runes": ["Cheap Shot", "Eyeball Collection", "Ultimate Hunter"]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": ["Celerity", "Waterwalking"]
+      },
+      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Smite"]
+  },
+
+  "Lissandra": {
+    "items": [
+      "Luden's Companion",
+      "Zhonya's Hourglass",
+      "Shadowflame",
+      "Rabadon's Deathcap",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Electrocute",
+        "runes": ["Manaflow Band", "Transcendence", "Scorch"]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": ["Biscuit Delivery", "Cosmic Insight"]
+      },
+      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Teleport"]
+  },
+
+  "Lucian": {
+    "items": [
+      "Kraken Slayer",
+      "Navori Flickerblade",
+      "Lord Dominik's Regards",
+      "Infinity Edge",
+      "Berserker's Greaves",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Press the Attack",
+        "runes": ["Triumph", "Legend: Alacrity", "Coup de Grace"]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": ["Absolute Focus", "Gathering Storm"]
+      },
+      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Heal"]
+  },
+
+  "Lulu": {
+    "items": [
+      "Moonstone Renewer",
+      "Ardent Censer",
+      "Redemption",
+      "Staff of Flowing Water",
+      "Mikael's Blessing",
+      "Ionian Boots of Lucidity"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Summon Aery",
+        "runes": ["Manaflow Band", "Transcendence", "Scorch"]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": ["Biscuit Delivery", "Cosmic Insight"]
+      },
+      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Heal"]
+  },
+
+  "Malphite": {
+    "items": [
+      "Heartsteel",
+      "Sunfire Aegis",
+      "Thornmail",
+      "Frozen Heart",
+      "Plated Steelcaps",
+      "Force of Nature"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Grasp of the Undying",
+        "runes": ["Demolish", "Second Wind", "Overgrowth"]
+      },
+      "secondary": {
+        "tree": "Sorcery",
+        "runes": ["Arcane Comet", "Manaflow Band"]
+      },
+      "statShards": ["Adaptive Force", "Armor", "Health"]
+    },
+    "summoners": ["Flash", "Teleport"]
+  },
+
+  "Malzahar": {
+    "items": [
+      "Liandry's Torment",
+      "Rylai's Crystal Scepter",
+      "Zhonya's Hourglass",
+      "Rabadon's Deathcap",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Arcane Comet",
+        "runes": ["Manaflow Band", "Transcendence", "Scorch"]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": ["Taste of Blood", "Ultimate Hunter"]
+      },
+      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Teleport"]
+  },
+
+  "Maokai": {
+    "items": [
+      "Jak'Sho, The Protean",
+      "Sunfire Aegis",
+      "Thornmail",
+      "Spirit Visage",
+      "Plated Steelcaps",
+      "Frozen Heart"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Aftershock",
+        "runes": ["Demolish", "Second Wind", "Overgrowth"]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": ["Biscuit Delivery", "Cosmic Insight"]
+      },
+      "statShards": ["Health", "Armor", "Health"]
+    },
+    "summoners": ["Flash", "Teleport"]
+  },
+
+  "Master Yi": {
+    "items": [
+      "Guinsoo's Rageblade",
+      "Kraken Slayer",
+      "Blade of the Ruined King",
+      "Wit's End",
+      "Berserker's Greaves",
+      "Death's Dance"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Lethal Tempo",
+        "runes": ["Triumph", "Legend: Alacrity", "Coup de Grace"]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": ["Sudden Impact", "Treasure Hunter"]
+      },
+      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Smite"]
+  },
+
+  "Milio": {
+    "items": [
+      "Moonstone Renewer",
+      "Ardent Censer",
+      "Redemption",
+      "Mikael's Blessing",
+      "Ionian Boots of Lucidity",
+      "Staff of Flowing Water"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Summon Aery",
+        "runes": ["Manaflow Band", "Transcendence", "Scorch"]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": ["Biscuit Delivery", "Cosmic Insight"]
+      },
+      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Heal"]
+  },
+
+  "Nami": {
+    "items": [
+      "Moonstone Renewer",
+      "Ardent Censer",
+      "Staff of Flowing Water",
+      "Redemption",
+      "Mikael's Blessing",
+      "Ionian Boots of Lucidity"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Summon Aery",
+        "runes": ["Manaflow Band", "Transcendence", "Scorch"]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": ["Taste of Blood", "Ultimate Hunter"]
+      },
+      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Heal"]
+  },
+
+  "Nasus": {
+    "items": [
+      "Divine Sunderer",
+      "Frozen Heart",
+      "Spirit Visage",
+      "Thornmail",
+      "Plated Steelcaps",
+      "Gargoyle Stoneplate"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Fleet Footwork",
+        "runes": ["Triumph", "Legend: Tenacity", "Last Stand"]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": ["Second Wind", "Overgrowth"]
+      },
+      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Ghost"]
+  },
+
+  "Nautilus": {
+    "items": [
+      "Evenshroud",
+      "Knight's Vow",
+      "Zeke's Convergence",
+      "Frozen Heart",
+      "Mercury's Treads",
+      "Redemption"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Aftershock",
+        "runes": ["Font of Life", "Bone Plating", "Unflinching"]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": ["Hextech Flashtraption", "Cosmic Insight"]
+      },
+      "statShards": ["Health", "Armor", "Health"]
+    },
+    "summoners": ["Flash", "Ignite"]
+  },
+
+  "Neeko": {
+    "items": [
+      "Luden's Companion",
+      "Shadowflame",
+      "Zhonya's Hourglass",
+      "Rabadon's Deathcap",
+      "Sorcerer's Shoes",
+      "Void Staff"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Sorcery",
+        "keystone": "Electrocute",
+        "runes": ["Manaflow Band", "Transcendence", "Scorch"]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": ["Cheap Shot", "Treasure Hunter"]
+      },
+      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Ignite"]
+  },
+
+  "Nocturne": {
+    "items": [
+      "Stridebreaker",
+      "Black Cleaver",
+      "Sterak's Gage",
+      "Death's Dance",
+      "Plated Steelcaps",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Lethal Tempo",
+        "runes": ["Triumph", "Legend: Alacrity", "Coup de Grace"]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": ["Sudden Impact", "Ultimate Hunter"]
+      },
+      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Smite"]
+  },
+
+  "Nunu & Willump": {
+    "items": [
+      "Radiant Virtue",
+      "Sunfire Aegis",
+      "Thornmail",
+      "Force of Nature",
+      "Plated Steelcaps",
+      "Frozen Heart"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Aftershock",
+        "runes": ["Font of Life", "Bone Plating", "Overgrowth"]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": ["Cheap Shot", "Ultimate Hunter"]
+      },
+      "statShards": ["Health", "Armor", "Health"]
+    },
+    "summoners": ["Flash", "Smite"]
+  },
+
+  "Olaf": {
+    "items": [
+      "Stridebreaker",
+      "Death's Dance",
+      "Sterak's Gage",
+      "Black Cleaver",
+      "Plated Steelcaps",
+      "Spirit Visage"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Conqueror",
+        "runes": ["Triumph", "Legend: Tenacity", "Last Stand"]
+      },
+      "secondary": {
+        "tree": "Resolve",
+        "runes": ["Second Wind", "Revitalize"]
+      },
+      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Ghost"]
+  },
+
+  "Pantheon": {
+    "items": [
+      "Eclipse",
+      "Black Cleaver",
+      "Serpent's Fang",
+      "Death's Dance",
+      "Plated Steelcaps",
+      "Guardian Angel"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Precision",
+        "keystone": "Press the Attack",
+        "runes": ["Triumph", "Legend: Tenacity", "Coup de Grace"]
+      },
+      "secondary": {
+        "tree": "Domination",
+        "runes": ["Sudden Impact", "Treasure Hunter"]
+      },
+      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+    },
+    "summoners": ["Flash", "Ignite"]
+  },
+
+  "Poppy": {
+    "items": [
+      "Sunfire Aegis",
+      "Thornmail",
+      "Frozen Heart",
+      "Dead Man's Plate",
+      "Plated Steelcaps",
+      "Force of Nature"
+    ],
+    "runes": {
+      "primary": {
+        "tree": "Resolve",
+        "keystone": "Grasp of the Undying",
+        "runes": ["Demolish", "Second Wind", "Overgrowth"]
+      },
+      "secondary": {
+        "tree": "Inspiration",
+        "runes": ["Magical Footwear", "Cosmic Insight"]
+      },
+      "statShards": ["Health", "Armor", "Health"]
+    },
+    "summoners": ["Flash", "Teleport"]
+  }
+}
