@@ -1,12 +1,12 @@
 {
   "Ahri": {
     "items": [
-      "Lich Bane",
-      "Rabadon's Deathcap",
-      "Shadowflame",
-      "Void Staff",
-      "Sorcerer's Shoes",
-      "Horizon Focus"
+      "Maldición del Liche",
+      "Sombrero Mortífero de Rabadon",
+      "Llamasombría",
+      "Bastón del Vacío",
+      "Botas de Hechicero",
+      "Enfoque del Horizonte"
     ],
     "runes": {
       "primary": {
@@ -38,12 +38,12 @@
   },
   "Akali": {
     "items": [
-      "Hextech Rocketbelt",
-      "Shadowflame",
-      "Rabadon's Deathcap",
-      "Zhonya's Hourglass",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Cinturón Cohete Hextech",
+      "Llamasombría",
+      "Sombrero Mortífero de Rabadon",
+      "Reloj de Arena de Zhonya",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -75,12 +75,12 @@
   },
   "Aatrox": {
     "items": [
-      "Black Cleaver",
-      "Stridebreaker",
-      "Sterak's Gage",
-      "Death's Dance",
-      "Plated Steelcaps",
-      "Guardian Angel"
+      "Cuchilla Negra",
+      "Rompeavances",
+      "Calibrador de Sterak",
+      "Danza de la Muerte",
+      "Botas blindadas",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
@@ -112,12 +112,12 @@
   },
   "Amumu": {
     "items": [
-      "Sunfire Aegis",
-      "Thornmail",
-      "Abyssal Mask",
-      "Gargoyle Stoneplate",
-      "Plated Steelcaps",
-      "Spirit Visage"
+      "Égida de fuego solar",
+      "Malla de Espinas",
+      "Máscara Abisal",
+      "Rukerno Kaenico",
+      "Botas blindadas",
+      "Rostro Espiritual"
     ],
     "runes": {
       "primary": {
@@ -149,12 +149,12 @@
   },
   "Ashe": {
     "items": [
-      "Kraken Slayer",
-      "Runaan's Hurricane",
-      "Infinity Edge",
-      "Rapid Firecannon",
-      "Berserker's Greaves",
-      "Bloodthirster"
+      "Verdugo de Kraken",
+      "Huracán de Runaan",
+      "Filo del Infinito",
+      "Cañón de Fuego Rápido",
+      "Grebas del Berserker",
+      "La Sanguinaria"
     ],
     "runes": {
       "primary": {
@@ -186,12 +186,12 @@
   },
   "Caitlyn": {
     "items": [
-      "Infinity Edge",
-      "Rapid Firecannon",
-      "Phantom Dancer",
-      "Lord Dominik's Regards",
-      "Berserker's Greaves",
-      "The Collector"
+      "Filo del Infinito",
+      "Cañón de Fuego Rápido",
+      "Bailarín Espectral",
+      "Recuerdos de Lord Dominik",
+      "Grebas del Berserker",
+      "El Coleccionista"
     ],
     "runes": {
       "primary": {
@@ -223,12 +223,12 @@
   },
   "Darius": {
     "items": [
-      "Stridebreaker",
-      "Black Cleaver",
-      "Sterak's Gage",
-      "Death's Dance",
-      "Plated Steelcaps",
-      "Thornmail"
+      "Rompeavances",
+      "Cuchilla Negra",
+      "Guantelete de Sterak",
+      "Danza de la Muerte",
+      "Botas blindadas",
+      "Malla de Espinas"
     ],
     "runes": {
       "primary": {
@@ -260,12 +260,12 @@
   },
   "Diana": {
     "items": [
-      "Lich Bane",
-      "Nashor's Tooth",
-      "Rabadon's Deathcap",
-      "Zhonya's Hourglass",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Maldición del Liche",
+      "Diente de Nashor",
+      "Sombrero Mortífero de Rabadon",
+      "Reloj de Arena de Zhonya",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -297,12 +297,12 @@
   },
   "Ekko": {
     "items": [
-      "Hextech Rocketbelt",
-      "Lich Bane",
-      "Zhonya's Hourglass",
-      "Rabadon's Deathcap",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Cinturón Cohete Hextech",
+      "Maldición del Liche",
+      "Reloj de Arena de Zhonya",
+      "Sombrero Mortífero de Rabadon",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -335,11 +335,11 @@
   "Ezreal": {
     "items": [
       "Muramana",
-      "Trinity Force",
-      "Serylda's Grudge",
-      "Sorcerer's Shoes",
-      "Iceborn Gauntlet",
-      "Blade of the Ruined King"
+      "Fuerza de la Trinidad",
+      "Rencor de Serylda",
+      "Botas de Hechicero",
+      "Guantelete de Hielo",
+      "Espada del Rey Arruinado"
     ],
     "runes": {
       "primary": {
@@ -371,12 +371,12 @@
   },
   "Fizz": {
     "items": [
-      "Lich Bane",
-      "Nashor's Tooth",
-      "Rabadon's Deathcap",
-      "Zhonya's Hourglass",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Maldición del Liche",
+      "Diente de Nashor",
+      "Sombrero Mortífero de Rabadon",
+      "Reloj de Arena de Zhonya",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -408,12 +408,12 @@
   },
   "Galio": {
     "items": [
-      "Turbo Chemtank",
-      "Abyssal Mask",
-      "Zhonya's Hourglass",
-      "Force of Nature",
-      "Plated Steelcaps",
-      "Gargoyle Stoneplate"
+      "Resplandor Vacío",
+      "Máscara Abisal",
+      "Reloj de Arena de Zhonya",
+      "Fuerza de la Naturaleza",
+      "Botas blindadas",
+      "Rukerno Kaenico"
     ],
     "runes": {
       "primary": {
@@ -445,12 +445,12 @@
   },
   "Garen": {
     "items": [
-      "Stridebreaker",
-      "Black Cleaver",
-      "Sterak's Gage",
-      "Dead Man's Plate",
-      "Plated Steelcaps",
-      "Spirit Visage"
+      "Rompeavances",
+      "Cuchilla Negra",
+      "Guantelete de Sterak",
+      "Coraza del Muerto",
+      "Botas blindadas",
+      "Rostro Espiritual"
     ],
     "runes": {
       "primary": {
@@ -482,12 +482,12 @@
   },
   "Graves": {
     "items": [
-      "Goredrinker",
-      "Black Cleaver",
-      "Sterak's Gage",
-      "Death's Dance",
-      "Plated Steelcaps",
-      "Maw of Malmortius"
+      "Hidra Voraz",
+      "Cuchilla Negra",
+      "Guantelete de Sterak",
+      "Danza de la Muerte",
+      "Botas blindadas",
+      "Fauces de Malmortius"
     ],
     "runes": {
       "primary": {
@@ -519,12 +519,12 @@
   },
   "Hecarim": {
     "items": [
-      "Trinity Force",
-      "Sterak's Gage",
-      "Spirit Visage",
-      "Dead Man's Plate",
-      "Plated Steelcaps",
-      "Guardian Angel"
+      "Fuerza de la Trinidad",
+      "Guantelete de Sterak",
+      "Rostro Espiritual",
+      "Coraza del Muerto",
+      "Botas blindadas",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
@@ -556,12 +556,12 @@
   },
   "Jhin": {
     "items": [
-      "Galeforce",
-      "Stormrazor",
-      "Infinity Edge",
-      "Rapid Firecannon",
-      "Lord Dominik's Regards",
-      "Guardian Angel"
+      "Terminus",
+      "Filo de la Tormenta",
+      "Filo del Infinito",
+      "Cañón de Fuego Rápido",
+      "Recuerdos de Lord Dominik",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
@@ -593,12 +593,12 @@
   },
   "Jinx": {
     "items": [
-      "Infinity Edge",
-      "Runaan's Hurricane",
-      "Rapid Firecannon",
-      "Bloodthirster",
-      "Lord Dominik's Regards",
-      "Berserker's Greaves"
+      "Filo del Infinito",
+      "Huracán de Runaan",
+      "Cañón de Fuego Rápido",
+      "La Sanguinaria",
+      "Recuerdos de Lord Dominik",
+      "Grebas del Berserker"
     ],
     "runes": {
       "primary": {
@@ -630,12 +630,12 @@
   },
   "Kai'Sa": {
     "items": [
-      "Kraken Slayer",
-      "Guinsoo's Rageblade",
-      "Runaan's Hurricane",
-      "Infinity Edge",
-      "Berserker's Greaves",
-      "Guardian Angel"
+      "Verdugo de Kraken",
+      "Hoja de Furia de Guinsoo",
+      "Huracán de Runaan",
+      "Filo del Infinito",
+      "Grebas del Berserker",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
@@ -667,12 +667,12 @@
   },
   "Karthus": {
     "items": [
-      "Rabadon's Deathcap",
-      "Luden's Tempest",
-      "Void Staff",
-      "Shadowflame",
-      "Sorcerer's Shoes",
-      "Zhonya's Hourglass"
+      "Sombrero Mortífero de Rabadon",
+      "Compañera de Luden",
+      "Bastón del Vacío",
+      "Llamasombría",
+      "Botas de Hechicero",
+      "Reloj de Arena de Zhonya"
     ],
     "runes": {
       "primary": {
@@ -704,12 +704,12 @@
   },
   "Kha'Zix": {
     "items": [
-      "Duskblade of Draktharr",
-      "Youmuu's Ghostblade",
-      "Edge of Night",
-      "The Collector",
-      "Boots of Mobility",
-      "Guardian Angel"
+      "Oportunidad",
+      "Filo Fantasmal de Youmuu",
+      "Filo de la Noche",
+      "El Coleccionista",
+      "Botas de Movilidad",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
@@ -741,12 +741,12 @@
   },
   "Lee Sin": {
     "items": [
-      "Goredrinker",
-      "Sterak's Gage",
-      "Black Cleaver",
-      "Death's Dance",
-      "Plated Steelcaps",
-      "Maw of Malmortius"
+      "Hidra Voraz",
+      "Guantelete de Sterak",
+      "Cuchilla Negra",
+      "Danza de la Muerte",
+      "Botas blindadas",
+      "Fauces de Malmortius"
     ],
     "runes": {
       "primary": {
@@ -778,12 +778,12 @@
   },
   "Leona": {
     "items": [
-      "Locket of the Iron Solari",
-      "Knight's Vow",
-      "Thornmail",
-      "Gargoyle Stoneplate",
-      "Plated Steelcaps",
-      "Aegis of the Legion"
+      "Medallón de los Solari de Hierro",
+      "Juramento del Caballero",
+      "Malla de Espinas",
+      "Rukerno Kaenico",
+      "Botas blindadas",
+      "Desesperación Eterna"
     ],
     "runes": {
       "primary": {
@@ -815,12 +815,12 @@
   },
   "Lux": {
     "items": [
-      "Luden's Tempest",
-      "Horizon Focus",
-      "Rabadon's Deathcap",
-      "Void Staff",
-      "Sorcerer's Shoes",
-      "Zhonya's Hourglass"
+      "Compañera de Luden",
+      "Enfoque del Horizonte",
+      "Sombrero Mortífero de Rabadon",
+      "Bastón del Vacío",
+      "Botas de Hechicero",
+      "Reloj de Arena de Zhonya"
     ],
     "runes": {
       "primary": {
@@ -852,12 +852,12 @@
   },
   "Miss Fortune": {
     "items": [
-      "Kraken Slayer",
-      "Infinity Edge",
-      "Rapid Firecannon",
-      "Lord Dominik's Regards",
-      "Berserker's Greaves",
-      "Bloodthirster"
+      "Verdugo de Kraken",
+      "Filo del Infinito",
+      "Cañón de Fuego Rápido",
+      "Recuerdos de Lord Dominik",
+      "Grebas del Berserker",
+      "La Sanguinaria"
     ],
     "runes": {
       "primary": {
@@ -889,12 +889,12 @@
   },
   "Morgana": {
     "items": [
-      "Horizon Focus",
-      "Rylai's Crystal Scepter",
-      "Zhonya's Hourglass",
-      "Rabadon's Deathcap",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Enfoque del Horizonte",
+      "Cetro de Cristal de Rylai",
+      "Reloj de Arena de Zhonya",
+      "Sombrero Mortífero de Rabadon",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -926,12 +926,12 @@
   },
   "Orianna": {
     "items": [
-      "Luden's Tempest",
-      "Horizon Focus",
-      "Rabadon's Deathcap",
-      "Zhonya's Hourglass",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Compañera de Luden",
+      "Enfoque del Horizonte",
+      "Sombrero Mortífero de Rabadon",
+      "Reloj de Arena de Zhonya",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -963,12 +963,12 @@
   },
   "Riven": {
     "items": [
-      "Stridebreaker",
-      "Black Cleaver",
-      "Sterak's Gage",
-      "Maw of Malmortius",
-      "Guardian Angel",
-      "Plated Steelcaps"
+      "Rompeavances",
+      "Cuchilla Negra",
+      "Guantelete de Sterak",
+      "Fauces de Malmortius",
+      "Ángel de la Guarda",
+      "Botas blindadas"
     ],
     "runes": {
       "primary": {
@@ -1000,12 +1000,12 @@
   },
   "Samira": {
     "items": [
-      "Immortal Shieldbow",
-      "Infinity Edge",
-      "Rapid Firecannon",
-      "Lord Dominik's Regards",
-      "Berserker's Greaves",
-      "Guardian Angel"
+      "Arcoescudo Inmortal",
+      "Filo del Infinito",
+      "Cañón de Fuego Rápido",
+      "Recuerdos de Lord Dominik",
+      "Grebas del Berserker",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
@@ -1037,12 +1037,12 @@
   },
   "Shen": {
     "items": [
-      "Titanic Hydra",
-      "Black Cleaver",
-      "Sterak's Gage",
-      "Dead Man's Plate",
-      "Plated Steelcaps",
-      "Spirit Visage"
+      "Hidra Titánica",
+      "Cuchilla Negra",
+      "Guantelete de Sterak",
+      "Coraza del Muerto",
+      "Botas blindadas",
+      "Rostro Espiritual"
     ],
     "runes": {
       "primary": {
@@ -1074,12 +1074,12 @@
   },
   "Thresh": {
     "items": [
-      "Locket of the Iron Solari",
-      "Redemption",
-      "Zeke's Convergence",
-      "Knight's Vow",
-      "Boots of Mobility",
-      "Shurelya's Battlesong"
+      "Medallón de los Solari de Hierro",
+      "Redención",
+      "Heraldo de Zeke",
+      "Juramento del Caballero",
+      "Botas de Movilidad",
+      "Canción de Batalla de Shurelya"
     ],
     "runes": {
       "primary": {
@@ -1111,12 +1111,12 @@
   },
   "Alistar": {
     "items": [
-      "Locket of the Iron Solari",
-      "Zeke's Convergence",
-      "Knight's Vow",
-      "Frozen Heart",
-      "Mercury's Treads",
-      "Redemption"
+      "Medallón de los Solari de Hierro",
+      "Heraldo de Zeke",
+      "Juramento del Caballero",
+      "Corazón de Hielo",
+      "Botas de Mercurio",
+      "Redención"
     ],
     "runes": {
       "primary": {
@@ -1146,15 +1146,14 @@
       "Ignite"
     ]
   },
-
   "Anivia": {
     "items": [
-      "Rod of Ages",
-      "Seraph's Embrace",
-      "Rabadon's Deathcap",
-      "Zhonya's Hourglass",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Vara de las Edades",
+      "Abrazo del Serafín",
+      "Sombrero Mortífero de Rabadon",
+      "Reloj de Arena de Zhonya",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -1184,15 +1183,14 @@
       "Teleport"
     ]
   },
-
   "Annie": {
     "items": [
-      "Luden's Companion",
-      "Shadowflame",
-      "Rabadon's Deathcap",
-      "Zhonya's Hourglass",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Compañera de Luden",
+      "Llamasombría",
+      "Sombrero Mortífero de Rabadon",
+      "Reloj de Arena de Zhonya",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -1222,15 +1220,14 @@
       "Ignite"
     ]
   },
-
   "Aphelios": {
     "items": [
-      "Infinity Edge",
-      "Kraken Slayer",
-      "Bloodthirster",
-      "Lord Dominik's Regards",
-      "Berserker's Greaves",
-      "Guardian Angel"
+      "Filo del Infinito",
+      "Verdugo de Kraken",
+      "La Sanguinaria",
+      "Recuerdos de Lord Dominik",
+      "Grebas del Berserker",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
@@ -1260,15 +1257,14 @@
       "Heal"
     ]
   },
-
   "Aurelion Sol": {
     "items": [
-      "Liandry's Torment",
-      "Rylai's Crystal Scepter",
-      "Rabadon's Deathcap",
-      "Zhonya's Hourglass",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Tormento de Liandry",
+      "Cetro de Cristal de Rylai",
+      "Sombrero Mortífero de Rabadon",
+      "Reloj de Arena de Zhonya",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -1298,15 +1294,14 @@
       "Teleport"
     ]
   },
-
   "Azir": {
     "items": [
-      "Nashor's Tooth",
-      "Luden's Companion",
-      "Rabadon's Deathcap",
-      "Zhonya's Hourglass",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Diente de Nashor",
+      "Compañera de Luden",
+      "Sombrero Mortífero de Rabadon",
+      "Reloj de Arena de Zhonya",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -1336,15 +1331,14 @@
       "Teleport"
     ]
   },
-
   "Bard": {
     "items": [
-      "Locket of the Iron Solari",
-      "Redemption",
-      "Mikael's Blessing",
-      "Frozen Heart",
-      "Ionian Boots of Lucidity",
-      "Knight's Vow"
+      "Medallón de los Solari de Hierro",
+      "Redención",
+      "Crisol de Mikael",
+      "Corazón de Hielo",
+      "Botas Jonias de la Lucidez",
+      "Juramento del Caballero"
     ],
     "runes": {
       "primary": {
@@ -1374,15 +1368,14 @@
       "Ignite"
     ]
   },
-
   "Bel'Veth": {
     "items": [
-      "Kraken Slayer",
-      "Blade of the Ruined King",
-      "Wit's End",
-      "Death's Dance",
-      "Plated Steelcaps",
-      "Guardian Angel"
+      "Verdugo de Kraken",
+      "Espada del Rey Arruinado",
+      "Al Filo de la Cordura",
+      "Danza de la Muerte",
+      "Botas blindadas",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
@@ -1412,15 +1405,14 @@
       "Smite"
     ]
   },
-
   "Blitzcrank": {
     "items": [
-      "Evenshroud",
-      "Zeke's Convergence",
-      "Knight's Vow",
-      "Frozen Heart",
-      "Mercury's Treads",
-      "Redemption"
+      "Resplandor Vacío",
+      "Heraldo de Zeke",
+      "Juramento del Caballero",
+      "Corazón de Hielo",
+      "Botas de Mercurio",
+      "Redención"
     ],
     "runes": {
       "primary": {
@@ -1450,15 +1442,14 @@
       "Ignite"
     ]
   },
-
   "Brand": {
     "items": [
-      "Liandry's Torment",
-      "Rylai's Crystal Scepter",
-      "Shadowflame",
-      "Rabadon's Deathcap",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Tormento de Liandry",
+      "Cetro de Cristal de Rylai",
+      "Llamasombría",
+      "Sombrero Mortífero de Rabadon",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -1488,15 +1479,14 @@
       "Ignite"
     ]
   },
-
   "Braum": {
     "items": [
-      "Locket of the Iron Solari",
-      "Knight's Vow",
-      "Zeke's Convergence",
-      "Frozen Heart",
-      "Mercury's Treads",
-      "Redemption"
+      "Medallón de los Solari de Hierro",
+      "Juramento del Caballero",
+      "Heraldo de Zeke",
+      "Corazón de Hielo",
+      "Botas de Mercurio",
+      "Redención"
     ],
     "runes": {
       "primary": {
@@ -1526,15 +1516,14 @@
       "Exhaust"
     ]
   },
-
   "Briar": {
     "items": [
-      "Stridebreaker",
-      "Black Cleaver",
-      "Sterak's Gage",
-      "Death's Dance",
-      "Plated Steelcaps",
-      "Guardian Angel"
+      "Rompeavances",
+      "Cuchilla Negra",
+      "Guantelete de Sterak",
+      "Danza de la Muerte",
+      "Botas blindadas",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
@@ -1564,15 +1553,14 @@
       "Smite"
     ]
   },
-
   "Camille": {
     "items": [
-      "Trinity Force",
-      "Ravenous Hydra",
-      "Sterak's Gage",
-      "Death's Dance",
-      "Plated Steelcaps",
-      "Guardian Angel"
+      "Fuerza de la Trinidad",
+      "Hidra Voraz",
+      "Guantelete de Sterak",
+      "Danza de la Muerte",
+      "Botas blindadas",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
@@ -1602,15 +1590,14 @@
       "Teleport"
     ]
   },
-
   "Cassiopeia": {
     "items": [
-      "Rod of Ages",
-      "Seraph's Embrace",
-      "Liandry's Torment",
-      "Rylai's Crystal Scepter",
-      "Sorcerer's Shoes",
-      "Rabadon's Deathcap"
+      "Vara de las Edades",
+      "Abrazo del Serafín",
+      "Tormento de Liandry",
+      "Cetro de Cristal de Rylai",
+      "Botas de Hechicero",
+      "Sombrero Mortífero de Rabadon"
     ],
     "runes": {
       "primary": {
@@ -1640,15 +1627,14 @@
       "Ghost"
     ]
   },
-
   "Cho'Gath": {
     "items": [
-      "Heartsteel",
-      "Sunfire Aegis",
-      "Titanic Hydra",
-      "Warmog's Armor",
-      "Plated Steelcaps",
-      "Thornmail"
+      "Corazón de Acero",
+      "Égida de fuego solar",
+      "Hidra Titánica",
+      "Armadura de Warmog",
+      "Botas blindadas",
+      "Malla de Espinas"
     ],
     "runes": {
       "primary": {
@@ -1678,15 +1664,14 @@
       "Teleport"
     ]
   },
-
   "Corki": {
     "items": [
-      "Luden's Companion",
+      "Compañera de Luden",
       "Muramana",
-      "Rabadon's Deathcap",
-      "Sorcerer's Shoes",
-      "Shadowflame",
-      "Void Staff"
+      "Sombrero Mortífero de Rabadon",
+      "Botas de Hechicero",
+      "Llamasombría",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -1716,15 +1701,14 @@
       "Teleport"
     ]
   },
-
   "Dr. Mundo": {
     "items": [
-      "Heartsteel",
-      "Spirit Visage",
-      "Warmog's Armor",
-      "Sunfire Aegis",
-      "Plated Steelcaps",
-      "Thornmail"
+      "Corazón de Acero",
+      "Rostro Espiritual",
+      "Armadura de Warmog",
+      "Égida de fuego solar",
+      "Botas blindadas",
+      "Malla de Espinas"
     ],
     "runes": {
       "primary": {
@@ -1754,15 +1738,14 @@
       "Teleport"
     ]
   },
-
   "Draven": {
     "items": [
-      "Infinity Edge",
-      "The Collector",
-      "Bloodthirster",
-      "Lord Dominik's Regards",
-      "Berserker's Greaves",
-      "Guardian Angel"
+      "Filo del Infinito",
+      "El Coleccionista",
+      "La Sanguinaria",
+      "Recuerdos de Lord Dominik",
+      "Grebas del Berserker",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
@@ -1792,15 +1775,14 @@
       "Heal"
     ]
   },
-
   "Elise": {
     "items": [
-      "Luden's Companion",
-      "Shadowflame",
-      "Zhonya's Hourglass",
-      "Rabadon's Deathcap",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Compañera de Luden",
+      "Llamasombría",
+      "Reloj de Arena de Zhonya",
+      "Sombrero Mortífero de Rabadon",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -1830,15 +1812,14 @@
       "Smite"
     ]
   },
-
   "Evelynn": {
     "items": [
-      "Hextech Rocketbelt",
-      "Shadowflame",
-      "Rabadon's Deathcap",
-      "Lich Bane",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Cinturón Cohete Hextech",
+      "Llamasombría",
+      "Sombrero Mortífero de Rabadon",
+      "Maldición del Liche",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -1868,15 +1849,14 @@
       "Smite"
     ]
   },
-
   "Fiora": {
     "items": [
-      "Ravenous Hydra",
-      "Trinity Force",
-      "Death's Dance",
-      "Sterak's Gage",
-      "Plated Steelcaps",
-      "Guardian Angel"
+      "Hidra Voraz",
+      "Fuerza de la Trinidad",
+      "Danza de la Muerte",
+      "Guantelete de Sterak",
+      "Botas blindadas",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
@@ -1906,15 +1886,14 @@
       "Teleport"
     ]
   },
-
   "Fiddlesticks": {
     "items": [
-      "Liandry's Torment",
-      "Rylai's Crystal Scepter",
-      "Zhonya's Hourglass",
-      "Rabadon's Deathcap",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Tormento de Liandry",
+      "Cetro de Cristal de Rylai",
+      "Reloj de Arena de Zhonya",
+      "Sombrero Mortífero de Rabadon",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -1944,15 +1923,14 @@
       "Smite"
     ]
   },
-
   "Gangplank": {
     "items": [
-      "Essence Reaver",
-      "Navori Flickerblade",
-      "Collector",
-      "Infinity Edge",
-      "Boots of Swiftness",
-      "Lord Dominik's Regards"
+      "Segador de Esencia",
+      "Cuchillas Raudas de Navori",
+      "El Coleccionista",
+      "Filo del Infinito",
+      "Botas de Rapidez",
+      "Recuerdos de Lord Dominik"
     ],
     "runes": {
       "primary": {
@@ -1982,15 +1960,14 @@
       "Teleport"
     ]
   },
-
   "Gnar": {
     "items": [
-      "Black Cleaver",
-      "Trinity Force",
-      "Ravenous Hydra",
-      "Sterak's Gage",
-      "Plated Steelcaps",
-      "Randuin's Omen"
+      "Cuchilla Negra",
+      "Fuerza de la Trinidad",
+      "Hidra Voraz",
+      "Guantelete de Sterak",
+      "Botas blindadas",
+      "Presagio de Randuin"
     ],
     "runes": {
       "primary": {
@@ -2020,15 +1997,14 @@
       "Teleport"
     ]
   },
-
   "Gragas": {
     "items": [
-      "Rod of Ages",
-      "Seraph's Embrace",
-      "Zhonya's Hourglass",
-      "Rabadon's Deathcap",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Vara de las Edades",
+      "Abrazo del Serafín",
+      "Reloj de Arena de Zhonya",
+      "Sombrero Mortífero de Rabadon",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -2058,15 +2034,14 @@
       "Teleport"
     ]
   },
-
   "Gwen": {
     "items": [
-      "Riftmaker",
-      "Nashor's Tooth",
-      "Rabadon's Deathcap",
-      "Zhonya's Hourglass",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Creador de Hendiduras",
+      "Diente de Nashor",
+      "Sombrero Mortífero de Rabadon",
+      "Reloj de Arena de Zhonya",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -2096,15 +2071,14 @@
       "Teleport"
     ]
   },
-
   "Heimerdinger": {
     "items": [
-      "Luden's Companion",
-      "Zhonya's Hourglass",
-      "Shadowflame",
-      "Rabadon's Deathcap",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Compañera de Luden",
+      "Reloj de Arena de Zhonya",
+      "Llamasombría",
+      "Sombrero Mortífero de Rabadon",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
@@ -2134,15 +2108,14 @@
       "Heal"
     ]
   },
-
   "Illaoi": {
     "items": [
-      "Black Cleaver",
-      "Sterak's Gage",
-      "Death's Dance",
-      "Hullbreaker",
-      "Plated Steelcaps",
-      "Spirit Visage"
+      "Cuchilla Negra",
+      "Guantelete de Sterak",
+      "Danza de la Muerte",
+      "Rompecascos",
+      "Botas blindadas",
+      "Rostro Espiritual"
     ],
     "runes": {
       "primary": {
@@ -2172,15 +2145,14 @@
       "Teleport"
     ]
   },
-
   "Irelia": {
     "items": [
-      "Blade of the Ruined King",
-      "Ravenous Hydra",
-      "Wit's End",
-      "Death's Dance",
-      "Plated Steelcaps",
-      "Guardian Angel"
+      "Espada del Rey Arruinado",
+      "Hidra Voraz",
+      "Al Filo de la Cordura",
+      "Danza de la Muerte",
+      "Botas blindadas",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
@@ -2210,15 +2182,14 @@
       "Teleport"
     ]
   },
-
   "Ivern": {
     "items": [
-      "Moonstone Renewer",
-      "Redemption",
-      "Ardent Censer",
-      "Mikael's Blessing",
-      "Ionian Boots of Lucidity",
-      "Staff of Flowing Water"
+      "Renovador de Piedra Lunar",
+      "Redención",
+      "Incensario Ardiente",
+      "Crisol de Mikael",
+      "Botas Jonias de la Lucidez",
+      "Báculo de Agua Fluyente"
     ],
     "runes": {
       "primary": {
@@ -2250,12 +2221,12 @@
   },
   "Janna": {
     "items": [
-      "Moonstone Renewer",
-      "Redemption",
-      "Ardent Censer",
-      "Mikael's Blessing",
-      "Ionian Boots of Lucidity",
-      "Staff of Flowing Water"
+      "Renovador de Piedra Lunar",
+      "Redención",
+      "Incensario Ardiente",
+      "Crisol de Mikael",
+      "Botas Jonias de la Lucidez",
+      "Báculo de Agua Fluyente"
     ],
     "runes": {
       "primary": {
@@ -2280,702 +2251,1082 @@
         "Health"
       ]
     },
-    "summoners": ["Flash", "Heal"]
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
   },
-
   "Jarvan IV": {
     "items": [
-      "Goredrinker",
-      "Black Cleaver",
-      "Sterak's Gage",
-      "Dead Man's Plate",
-      "Plated Steelcaps",
-      "Guardian Angel"
+      "Hidra Voraz",
+      "Cuchilla Negra",
+      "Guantelete de Sterak",
+      "Coraza del Muerto",
+      "Botas blindadas",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
         "tree": "Precision",
         "keystone": "Conqueror",
-        "runes": ["Triumph", "Legend: Alacrity", "Last Stand"]
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Last Stand"
+        ]
       },
       "secondary": {
         "tree": "Domination",
-        "runes": ["Sudden Impact", "Treasure Hunter"]
+        "runes": [
+          "Sudden Impact",
+          "Treasure Hunter"
+        ]
       },
-      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Smite"]
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
   },
-
   "Jayce": {
     "items": [
       "Manamune",
       "Eclipse",
-      "Serylda's Grudge",
-      "Maw of Malmortius",
-      "Ionian Boots of Lucidity",
-      "Edge of Night"
+      "Rencor de Serylda",
+      "Fauces de Malmortius",
+      "Botas Jonias de la Lucidez",
+      "Filo de la Noche"
     ],
     "runes": {
       "primary": {
         "tree": "Sorcery",
         "keystone": "Phase Rush",
-        "runes": ["Nimbus Cloak", "Transcendence", "Scorch"]
+        "runes": [
+          "Nimbus Cloak",
+          "Transcendence",
+          "Scorch"
+        ]
       },
       "secondary": {
         "tree": "Inspiration",
-        "runes": ["Biscuit Delivery", "Cosmic Insight"]
+        "runes": [
+          "Biscuit Delivery",
+          "Cosmic Insight"
+        ]
       },
-      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Teleport"]
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
   },
-
   "Karma": {
     "items": [
-      "Moonstone Renewer",
-      "Ardent Censer",
-      "Redemption",
-      "Staff of Flowing Water",
-      "Ionian Boots of Lucidity",
-      "Mikael's Blessing"
+      "Renovador de Piedra Lunar",
+      "Incensario Ardiente",
+      "Redención",
+      "Báculo de Agua Fluyente",
+      "Botas Jonias de la Lucidez",
+      "Crisol de Mikael"
     ],
     "runes": {
       "primary": {
         "tree": "Sorcery",
         "keystone": "Summon Aery",
-        "runes": ["Manaflow Band", "Transcendence", "Scorch"]
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Scorch"
+        ]
       },
       "secondary": {
         "tree": "Inspiration",
-        "runes": ["Biscuit Delivery", "Cosmic Insight"]
+        "runes": [
+          "Biscuit Delivery",
+          "Cosmic Insight"
+        ]
       },
-      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Heal"]
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
   },
-
   "Kalista": {
     "items": [
-      "Kraken Slayer",
-      "Runaan's Hurricane",
-      "Blade of the Ruined King",
-      "Immortal Shieldbow",
-      "Berserker's Greaves",
-      "Guardian Angel"
+      "Verdugo de Kraken",
+      "Huracán de Runaan",
+      "Espada del Rey Arruinado",
+      "Arcoescudo Inmortal",
+      "Grebas del Berserker",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
         "tree": "Precision",
         "keystone": "Lethal Tempo",
-        "runes": ["Triumph", "Legend: Alacrity", "Coup de Grace"]
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Coup de Grace"
+        ]
       },
       "secondary": {
         "tree": "Domination",
-        "runes": ["Sudden Impact", "Treasure Hunter"]
+        "runes": [
+          "Sudden Impact",
+          "Treasure Hunter"
+        ]
       },
-      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Heal"]
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
   },
-
   "Kassadin": {
     "items": [
-      "Rod of Ages",
-      "Archangel's Staff",
-      "Rabadon's Deathcap",
-      "Zhonya's Hourglass",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Vara de las Edades",
+      "Bastón del Arcángel",
+      "Sombrero Mortífero de Rabadon",
+      "Reloj de Arena de Zhonya",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
         "tree": "Precision",
         "keystone": "Fleet Footwork",
-        "runes": ["Presence of Mind", "Legend: Tenacity", "Cut Down"]
+        "runes": [
+          "Presence of Mind",
+          "Legend: Tenacity",
+          "Cut Down"
+        ]
       },
       "secondary": {
         "tree": "Sorcery",
-        "runes": ["Transcendence", "Gathering Storm"]
+        "runes": [
+          "Transcendence",
+          "Gathering Storm"
+        ]
       },
-      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Teleport"]
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
   },
-
   "Katarina": {
     "items": [
-      "Nashor's Tooth",
-      "Riftmaker",
-      "Shadowflame",
-      "Zhonya's Hourglass",
-      "Sorcerer's Shoes",
-      "Rabadon's Deathcap"
+      "Diente de Nashor",
+      "Creador de Hendiduras",
+      "Llamasombría",
+      "Reloj de Arena de Zhonya",
+      "Botas de Hechicero",
+      "Sombrero Mortífero de Rabadon"
     ],
     "runes": {
       "primary": {
         "tree": "Domination",
         "keystone": "Dark Harvest",
-        "runes": ["Sudden Impact", "Eyeball Collection", "Treasure Hunter"]
+        "runes": [
+          "Sudden Impact",
+          "Eyeball Collection",
+          "Treasure Hunter"
+        ]
       },
       "secondary": {
         "tree": "Precision",
-        "runes": ["Triumph", "Legend: Tenacity"]
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity"
+        ]
       },
-      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Ignite"]
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
   },
-
   "Kayn": {
     "items": [
-      "Goredrinker",
-      "Black Cleaver",
-      "Death's Dance",
-      "Spirit Visage",
-      "Plated Steelcaps",
-      "Guardian Angel"
+      "Hidra Voraz",
+      "Cuchilla Negra",
+      "Danza de la Muerte",
+      "Rostro Espiritual",
+      "Botas blindadas",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
         "tree": "Domination",
         "keystone": "Dark Harvest",
-        "runes": ["Sudden Impact", "Eyeball Collection", "Ultimate Hunter"]
+        "runes": [
+          "Sudden Impact",
+          "Eyeball Collection",
+          "Ultimate Hunter"
+        ]
       },
       "secondary": {
         "tree": "Precision",
-        "runes": ["Triumph", "Legend: Tenacity"]
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity"
+        ]
       },
-      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Smite"]
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
   },
-
   "Kennen": {
     "items": [
-      "Hextech Rocketbelt",
-      "Zhonya's Hourglass",
-      "Shadowflame",
-      "Rabadon's Deathcap",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Cinturón Cohete Hextech",
+      "Reloj de Arena de Zhonya",
+      "Llamasombría",
+      "Sombrero Mortífero de Rabadon",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
         "tree": "Sorcery",
         "keystone": "Aery",
-        "runes": ["Nimbus Cloak", "Transcendence", "Scorch"]
+        "runes": [
+          "Nimbus Cloak",
+          "Transcendence",
+          "Scorch"
+        ]
       },
       "secondary": {
         "tree": "Resolve",
-        "runes": ["Bone Plating", "Overgrowth"]
+        "runes": [
+          "Bone Plating",
+          "Overgrowth"
+        ]
       },
-      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Teleport"]
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
   },
-
   "Kled": {
     "items": [
-      "Goredrinker",
-      "Black Cleaver",
-      "Sterak's Gage",
-      "Death's Dance",
-      "Plated Steelcaps",
-      "Titanic Hydra"
+      "Hidra Voraz",
+      "Cuchilla Negra",
+      "Guantelete de Sterak",
+      "Danza de la Muerte",
+      "Botas blindadas",
+      "Hidra Titánica"
     ],
     "runes": {
       "primary": {
         "tree": "Precision",
         "keystone": "Conqueror",
-        "runes": ["Triumph", "Legend: Alacrity", "Last Stand"]
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Last Stand"
+        ]
       },
       "secondary": {
         "tree": "Resolve",
-        "runes": ["Bone Plating", "Unflinching"]
+        "runes": [
+          "Bone Plating",
+          "Unflinching"
+        ]
       },
-      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Ignite"]
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
   },
-
   "Kog'Maw": {
     "items": [
-      "Guinsoo's Rageblade",
-      "Blade of the Ruined King",
-      "Wit's End",
-      "Runaan's Hurricane",
-      "Berserker's Greaves",
-      "Guardian Angel"
+      "Hoja de Furia de Guinsoo",
+      "Espada del Rey Arruinado",
+      "Al Filo de la Cordura",
+      "Huracán de Runaan",
+      "Grebas del Berserker",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
         "tree": "Precision",
         "keystone": "Lethal Tempo",
-        "runes": ["Triumph", "Legend: Alacrity", "Cut Down"]
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Cut Down"
+        ]
       },
       "secondary": {
         "tree": "Domination",
-        "runes": ["Taste of Blood", "Treasure Hunter"]
+        "runes": [
+          "Taste of Blood",
+          "Treasure Hunter"
+        ]
       },
-      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Heal"]
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
   },
-
   "Leblanc": {
     "items": [
-      "Luden's Companion",
-      "Shadowflame",
-      "Rabadon's Deathcap",
-      "Zhonya's Hourglass",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Compañera de Luden",
+      "Llamasombría",
+      "Sombrero Mortífero de Rabadon",
+      "Reloj de Arena de Zhonya",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
         "tree": "Domination",
         "keystone": "Electrocute",
-        "runes": ["Sudden Impact", "Eyeball Collection", "Treasure Hunter"]
+        "runes": [
+          "Sudden Impact",
+          "Eyeball Collection",
+          "Treasure Hunter"
+        ]
       },
       "secondary": {
         "tree": "Sorcery",
-        "runes": ["Manaflow Band", "Scorch"]
+        "runes": [
+          "Manaflow Band",
+          "Scorch"
+        ]
       },
-      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Ignite"]
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
   },
-
   "Lillia": {
     "items": [
-      "Liandry's Torment",
-      "Rylai's Crystal Scepter",
-      "Zhonya's Hourglass",
-      "Spirit Visage",
-      "Sorcerer's Shoes",
-      "Demonic Embrace"
+      "Tormento de Liandry",
+      "Cetro de Cristal de Rylai",
+      "Reloj de Arena de Zhonya",
+      "Rostro Espiritual",
+      "Botas de Hechicero",
+      "Tormento de Liandry"
     ],
     "runes": {
       "primary": {
         "tree": "Domination",
         "keystone": "Dark Harvest",
-        "runes": ["Cheap Shot", "Eyeball Collection", "Ultimate Hunter"]
+        "runes": [
+          "Cheap Shot",
+          "Eyeball Collection",
+          "Ultimate Hunter"
+        ]
       },
       "secondary": {
         "tree": "Sorcery",
-        "runes": ["Celerity", "Waterwalking"]
+        "runes": [
+          "Celerity",
+          "Waterwalking"
+        ]
       },
-      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Smite"]
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
   },
-
   "Lissandra": {
     "items": [
-      "Luden's Companion",
-      "Zhonya's Hourglass",
-      "Shadowflame",
-      "Rabadon's Deathcap",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Compañera de Luden",
+      "Reloj de Arena de Zhonya",
+      "Llamasombría",
+      "Sombrero Mortífero de Rabadon",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
         "tree": "Sorcery",
         "keystone": "Electrocute",
-        "runes": ["Manaflow Band", "Transcendence", "Scorch"]
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Scorch"
+        ]
       },
       "secondary": {
         "tree": "Inspiration",
-        "runes": ["Biscuit Delivery", "Cosmic Insight"]
+        "runes": [
+          "Biscuit Delivery",
+          "Cosmic Insight"
+        ]
       },
-      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Teleport"]
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
   },
-
   "Lucian": {
     "items": [
-      "Kraken Slayer",
-      "Navori Flickerblade",
-      "Lord Dominik's Regards",
-      "Infinity Edge",
-      "Berserker's Greaves",
-      "Guardian Angel"
+      "Verdugo de Kraken",
+      "Cuchillas Raudas de Navori",
+      "Recuerdos de Lord Dominik",
+      "Filo del Infinito",
+      "Grebas del Berserker",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
         "tree": "Precision",
         "keystone": "Press the Attack",
-        "runes": ["Triumph", "Legend: Alacrity", "Coup de Grace"]
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Coup de Grace"
+        ]
       },
       "secondary": {
         "tree": "Sorcery",
-        "runes": ["Absolute Focus", "Gathering Storm"]
+        "runes": [
+          "Absolute Focus",
+          "Gathering Storm"
+        ]
       },
-      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Heal"]
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
   },
-
   "Lulu": {
     "items": [
-      "Moonstone Renewer",
-      "Ardent Censer",
-      "Redemption",
-      "Staff of Flowing Water",
-      "Mikael's Blessing",
-      "Ionian Boots of Lucidity"
+      "Renovador de Piedra Lunar",
+      "Incensario Ardiente",
+      "Redención",
+      "Báculo de Agua Fluyente",
+      "Crisol de Mikael",
+      "Botas Jonias de la Lucidez"
     ],
     "runes": {
       "primary": {
         "tree": "Sorcery",
         "keystone": "Summon Aery",
-        "runes": ["Manaflow Band", "Transcendence", "Scorch"]
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Scorch"
+        ]
       },
       "secondary": {
         "tree": "Inspiration",
-        "runes": ["Biscuit Delivery", "Cosmic Insight"]
+        "runes": [
+          "Biscuit Delivery",
+          "Cosmic Insight"
+        ]
       },
-      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Heal"]
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
   },
-
   "Malphite": {
     "items": [
-      "Heartsteel",
-      "Sunfire Aegis",
-      "Thornmail",
-      "Frozen Heart",
-      "Plated Steelcaps",
-      "Force of Nature"
+      "Corazón de Acero",
+      "Égida de fuego solar",
+      "Malla de Espinas",
+      "Corazón de Hielo",
+      "Botas blindadas",
+      "Fuerza de la Naturaleza"
     ],
     "runes": {
       "primary": {
         "tree": "Resolve",
         "keystone": "Grasp of the Undying",
-        "runes": ["Demolish", "Second Wind", "Overgrowth"]
+        "runes": [
+          "Demolish",
+          "Second Wind",
+          "Overgrowth"
+        ]
       },
       "secondary": {
         "tree": "Sorcery",
-        "runes": ["Arcane Comet", "Manaflow Band"]
+        "runes": [
+          "Arcane Comet",
+          "Manaflow Band"
+        ]
       },
-      "statShards": ["Adaptive Force", "Armor", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Armor",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Teleport"]
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
   },
-
   "Malzahar": {
     "items": [
-      "Liandry's Torment",
-      "Rylai's Crystal Scepter",
-      "Zhonya's Hourglass",
-      "Rabadon's Deathcap",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Tormento de Liandry",
+      "Cetro de Cristal de Rylai",
+      "Reloj de Arena de Zhonya",
+      "Sombrero Mortífero de Rabadon",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
         "tree": "Sorcery",
         "keystone": "Arcane Comet",
-        "runes": ["Manaflow Band", "Transcendence", "Scorch"]
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Scorch"
+        ]
       },
       "secondary": {
         "tree": "Domination",
-        "runes": ["Taste of Blood", "Ultimate Hunter"]
+        "runes": [
+          "Taste of Blood",
+          "Ultimate Hunter"
+        ]
       },
-      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Teleport"]
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
   },
-
   "Maokai": {
     "items": [
-      "Jak'Sho, The Protean",
-      "Sunfire Aegis",
-      "Thornmail",
-      "Spirit Visage",
-      "Plated Steelcaps",
-      "Frozen Heart"
+      "Jak'Sho, el Proteico",
+      "Égida de fuego solar",
+      "Malla de Espinas",
+      "Rostro Espiritual",
+      "Botas blindadas",
+      "Corazón de Hielo"
     ],
     "runes": {
       "primary": {
         "tree": "Resolve",
         "keystone": "Aftershock",
-        "runes": ["Demolish", "Second Wind", "Overgrowth"]
+        "runes": [
+          "Demolish",
+          "Second Wind",
+          "Overgrowth"
+        ]
       },
       "secondary": {
         "tree": "Inspiration",
-        "runes": ["Biscuit Delivery", "Cosmic Insight"]
+        "runes": [
+          "Biscuit Delivery",
+          "Cosmic Insight"
+        ]
       },
-      "statShards": ["Health", "Armor", "Health"]
+      "statShards": [
+        "Health",
+        "Armor",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Teleport"]
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
   },
-
   "Master Yi": {
     "items": [
-      "Guinsoo's Rageblade",
-      "Kraken Slayer",
-      "Blade of the Ruined King",
-      "Wit's End",
-      "Berserker's Greaves",
-      "Death's Dance"
+      "Hoja de Furia de Guinsoo",
+      "Verdugo de Kraken",
+      "Espada del Rey Arruinado",
+      "Al Filo de la Cordura",
+      "Grebas del Berserker",
+      "Danza de la Muerte"
     ],
     "runes": {
       "primary": {
         "tree": "Precision",
         "keystone": "Lethal Tempo",
-        "runes": ["Triumph", "Legend: Alacrity", "Coup de Grace"]
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Coup de Grace"
+        ]
       },
       "secondary": {
         "tree": "Domination",
-        "runes": ["Sudden Impact", "Treasure Hunter"]
+        "runes": [
+          "Sudden Impact",
+          "Treasure Hunter"
+        ]
       },
-      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Smite"]
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
   },
-
   "Milio": {
     "items": [
-      "Moonstone Renewer",
-      "Ardent Censer",
-      "Redemption",
-      "Mikael's Blessing",
-      "Ionian Boots of Lucidity",
-      "Staff of Flowing Water"
+      "Renovador de Piedra Lunar",
+      "Incensario Ardiente",
+      "Redención",
+      "Crisol de Mikael",
+      "Botas Jonias de la Lucidez",
+      "Báculo de Agua Fluyente"
     ],
     "runes": {
       "primary": {
         "tree": "Sorcery",
         "keystone": "Summon Aery",
-        "runes": ["Manaflow Band", "Transcendence", "Scorch"]
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Scorch"
+        ]
       },
       "secondary": {
         "tree": "Inspiration",
-        "runes": ["Biscuit Delivery", "Cosmic Insight"]
+        "runes": [
+          "Biscuit Delivery",
+          "Cosmic Insight"
+        ]
       },
-      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Heal"]
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
   },
-
   "Nami": {
     "items": [
-      "Moonstone Renewer",
-      "Ardent Censer",
-      "Staff of Flowing Water",
-      "Redemption",
-      "Mikael's Blessing",
-      "Ionian Boots of Lucidity"
+      "Renovador de Piedra Lunar",
+      "Incensario Ardiente",
+      "Báculo de Agua Fluyente",
+      "Redención",
+      "Crisol de Mikael",
+      "Botas Jonias de la Lucidez"
     ],
     "runes": {
       "primary": {
         "tree": "Sorcery",
         "keystone": "Summon Aery",
-        "runes": ["Manaflow Band", "Transcendence", "Scorch"]
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Scorch"
+        ]
       },
       "secondary": {
         "tree": "Domination",
-        "runes": ["Taste of Blood", "Ultimate Hunter"]
+        "runes": [
+          "Taste of Blood",
+          "Ultimate Hunter"
+        ]
       },
-      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Heal"]
+    "summoners": [
+      "Flash",
+      "Heal"
+    ]
   },
-
   "Nasus": {
     "items": [
-      "Divine Sunderer",
-      "Frozen Heart",
-      "Spirit Visage",
-      "Thornmail",
-      "Plated Steelcaps",
-      "Gargoyle Stoneplate"
+      "Cielo Desgarrado",
+      "Corazón de Hielo",
+      "Rostro Espiritual",
+      "Malla de Espinas",
+      "Botas blindadas",
+      "Rukerno Kaenico"
     ],
     "runes": {
       "primary": {
         "tree": "Precision",
         "keystone": "Fleet Footwork",
-        "runes": ["Triumph", "Legend: Tenacity", "Last Stand"]
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity",
+          "Last Stand"
+        ]
       },
       "secondary": {
         "tree": "Resolve",
-        "runes": ["Second Wind", "Overgrowth"]
+        "runes": [
+          "Second Wind",
+          "Overgrowth"
+        ]
       },
-      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Ghost"]
+    "summoners": [
+      "Flash",
+      "Ghost"
+    ]
   },
-
   "Nautilus": {
     "items": [
-      "Evenshroud",
-      "Knight's Vow",
-      "Zeke's Convergence",
-      "Frozen Heart",
-      "Mercury's Treads",
-      "Redemption"
+      "Resplandor Vacío",
+      "Juramento del Caballero",
+      "Heraldo de Zeke",
+      "Corazón de Hielo",
+      "Botas de Mercurio",
+      "Redención"
     ],
     "runes": {
       "primary": {
         "tree": "Resolve",
         "keystone": "Aftershock",
-        "runes": ["Font of Life", "Bone Plating", "Unflinching"]
+        "runes": [
+          "Font of Life",
+          "Bone Plating",
+          "Unflinching"
+        ]
       },
       "secondary": {
         "tree": "Inspiration",
-        "runes": ["Hextech Flashtraption", "Cosmic Insight"]
+        "runes": [
+          "Hextech Flashtraption",
+          "Cosmic Insight"
+        ]
       },
-      "statShards": ["Health", "Armor", "Health"]
+      "statShards": [
+        "Health",
+        "Armor",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Ignite"]
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
   },
-
   "Neeko": {
     "items": [
-      "Luden's Companion",
-      "Shadowflame",
-      "Zhonya's Hourglass",
-      "Rabadon's Deathcap",
-      "Sorcerer's Shoes",
-      "Void Staff"
+      "Compañera de Luden",
+      "Llamasombría",
+      "Reloj de Arena de Zhonya",
+      "Sombrero Mortífero de Rabadon",
+      "Botas de Hechicero",
+      "Bastón del Vacío"
     ],
     "runes": {
       "primary": {
         "tree": "Sorcery",
         "keystone": "Electrocute",
-        "runes": ["Manaflow Band", "Transcendence", "Scorch"]
+        "runes": [
+          "Manaflow Band",
+          "Transcendence",
+          "Scorch"
+        ]
       },
       "secondary": {
         "tree": "Domination",
-        "runes": ["Cheap Shot", "Treasure Hunter"]
+        "runes": [
+          "Cheap Shot",
+          "Treasure Hunter"
+        ]
       },
-      "statShards": ["Adaptive Force", "Adaptive Force", "Health"]
+      "statShards": [
+        "Adaptive Force",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Ignite"]
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
   },
-
   "Nocturne": {
     "items": [
-      "Stridebreaker",
-      "Black Cleaver",
-      "Sterak's Gage",
-      "Death's Dance",
-      "Plated Steelcaps",
-      "Guardian Angel"
+      "Rompeavances",
+      "Cuchilla Negra",
+      "Guantelete de Sterak",
+      "Danza de la Muerte",
+      "Botas blindadas",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
         "tree": "Precision",
         "keystone": "Lethal Tempo",
-        "runes": ["Triumph", "Legend: Alacrity", "Coup de Grace"]
+        "runes": [
+          "Triumph",
+          "Legend: Alacrity",
+          "Coup de Grace"
+        ]
       },
       "secondary": {
         "tree": "Domination",
-        "runes": ["Sudden Impact", "Ultimate Hunter"]
+        "runes": [
+          "Sudden Impact",
+          "Ultimate Hunter"
+        ]
       },
-      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Smite"]
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
   },
-
   "Nunu & Willump": {
     "items": [
-      "Radiant Virtue",
-      "Sunfire Aegis",
-      "Thornmail",
-      "Force of Nature",
-      "Plated Steelcaps",
-      "Frozen Heart"
+      "Desesperación Eterna",
+      "Égida de fuego solar",
+      "Malla de Espinas",
+      "Fuerza de la Naturaleza",
+      "Botas blindadas",
+      "Corazón de Hielo"
     ],
     "runes": {
       "primary": {
         "tree": "Resolve",
         "keystone": "Aftershock",
-        "runes": ["Font of Life", "Bone Plating", "Overgrowth"]
+        "runes": [
+          "Font of Life",
+          "Bone Plating",
+          "Overgrowth"
+        ]
       },
       "secondary": {
         "tree": "Domination",
-        "runes": ["Cheap Shot", "Ultimate Hunter"]
+        "runes": [
+          "Cheap Shot",
+          "Ultimate Hunter"
+        ]
       },
-      "statShards": ["Health", "Armor", "Health"]
+      "statShards": [
+        "Health",
+        "Armor",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Smite"]
+    "summoners": [
+      "Flash",
+      "Smite"
+    ]
   },
-
   "Olaf": {
     "items": [
-      "Stridebreaker",
-      "Death's Dance",
-      "Sterak's Gage",
-      "Black Cleaver",
-      "Plated Steelcaps",
-      "Spirit Visage"
+      "Rompeavances",
+      "Danza de la Muerte",
+      "Guantelete de Sterak",
+      "Cuchilla Negra",
+      "Botas blindadas",
+      "Rostro Espiritual"
     ],
     "runes": {
       "primary": {
         "tree": "Precision",
         "keystone": "Conqueror",
-        "runes": ["Triumph", "Legend: Tenacity", "Last Stand"]
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity",
+          "Last Stand"
+        ]
       },
       "secondary": {
         "tree": "Resolve",
-        "runes": ["Second Wind", "Revitalize"]
+        "runes": [
+          "Second Wind",
+          "Revitalize"
+        ]
       },
-      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Ghost"]
+    "summoners": [
+      "Flash",
+      "Ghost"
+    ]
   },
-
   "Pantheon": {
     "items": [
       "Eclipse",
-      "Black Cleaver",
-      "Serpent's Fang",
-      "Death's Dance",
-      "Plated Steelcaps",
-      "Guardian Angel"
+      "Cuchilla Negra",
+      "Colmillo de Serpiente",
+      "Danza de la Muerte",
+      "Botas blindadas",
+      "Ángel de la Guarda"
     ],
     "runes": {
       "primary": {
         "tree": "Precision",
         "keystone": "Press the Attack",
-        "runes": ["Triumph", "Legend: Tenacity", "Coup de Grace"]
+        "runes": [
+          "Triumph",
+          "Legend: Tenacity",
+          "Coup de Grace"
+        ]
       },
       "secondary": {
         "tree": "Domination",
-        "runes": ["Sudden Impact", "Treasure Hunter"]
+        "runes": [
+          "Sudden Impact",
+          "Treasure Hunter"
+        ]
       },
-      "statShards": ["Attack Speed", "Adaptive Force", "Health"]
+      "statShards": [
+        "Attack Speed",
+        "Adaptive Force",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Ignite"]
+    "summoners": [
+      "Flash",
+      "Ignite"
+    ]
   },
-
   "Poppy": {
     "items": [
-      "Sunfire Aegis",
-      "Thornmail",
-      "Frozen Heart",
-      "Dead Man's Plate",
-      "Plated Steelcaps",
-      "Force of Nature"
+      "Égida de fuego solar",
+      "Malla de Espinas",
+      "Corazón de Hielo",
+      "Coraza del Muerto",
+      "Botas blindadas",
+      "Fuerza de la Naturaleza"
     ],
     "runes": {
       "primary": {
         "tree": "Resolve",
         "keystone": "Grasp of the Undying",
-        "runes": ["Demolish", "Second Wind", "Overgrowth"]
+        "runes": [
+          "Demolish",
+          "Second Wind",
+          "Overgrowth"
+        ]
       },
       "secondary": {
         "tree": "Inspiration",
-        "runes": ["Magical Footwear", "Cosmic Insight"]
+        "runes": [
+          "Magical Footwear",
+          "Cosmic Insight"
+        ]
       },
-      "statShards": ["Health", "Armor", "Health"]
+      "statShards": [
+        "Health",
+        "Armor",
+        "Health"
+      ]
     },
-    "summoners": ["Flash", "Teleport"]
+    "summoners": [
+      "Flash",
+      "Teleport"
+    ]
   }
 }

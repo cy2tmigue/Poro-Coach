@@ -9,32 +9,44 @@ class Help(commands.Cog):
     async def help_command(self, ctx):
         embed = discord.Embed(
             title="📘 Lista de Comandos — Poro-Coach",
-            description="Aquí tienes los comandos disponibles organizados por categoría.",
+            description="Aquí tienes todos los comandos del bot, organizados por categoría.",
             color=discord.Color.purple()
         )
 
-        # General
+        # 🌟 GENERAL
         embed.add_field(
             name="🌟 General",
-            value="`!ping` — Latencia\n"
-                  "`!team` — Equipo\n"
-                  "`!info` — Información del bot",
+            value=(
+                "`!info` — Información del bot"
+            ),
             inline=False
         )
 
-        # Utility
+        # 🧰 UTILIDAD
         embed.add_field(
             name="🧰 Utilidad",
-            value="`!avatar @user` — Ver su avatar\n"
-                  "`!userinfo @user` — Información del usuario\n"
-                  "`!serverinfo` — Info del servidor",
+            value=(
+                "`!avatar @user` — Muestra el avatar de un usuario\n"
+                "`!userinfo @user` — Datos de un usuario\n"
+                "`!serverinfo` — Información del servidor"
+            ),
             inline=False
         )
 
-        # Admin
+        # 🎮 LEAGUE OF LEGENDS
         embed.add_field(
-            name="🛠 Admin",
-            value="`!clear <n>` — Borra mensajes (requiere permisos)",
+            name="🎮 League of Legends",
+            value=(
+                "`!champinfo <campeón>` — Muestra estadísticas del campeón\n"
+                "`!build <campeón>` — Build recomendada (ítems, runas y hechizos)"
+            ),
+            inline=False
+        )
+
+        # 🛠 ADMINISTRACIÓN
+        embed.add_field(
+            name="🛠 Administración",
+            value="`!clear <n>` — Borra n mensajes (requiere permisos)",
             inline=False
         )
 
